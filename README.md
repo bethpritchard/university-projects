@@ -12,7 +12,7 @@ Due to few computing componets in semester 1, I have focused on learning Python.
 
 ## Stage  2
 #### Mandelbrot and Julia sets
-These two functions were developed for the group project module.
+These two functions were developed by myself for the group project module.
 
 [Mandelbrot function](Stage-2/mandelbrot.m)
 
