@@ -16,4 +16,4 @@ This project involved coding a Heapsort function
 ### MATLAB GUI 
 This project involved developing a GUI; a dataset was given and the task was to create a GUI to display the data. This was the first large MATLAB project I completed. 
 
-[GUI project](GUI.m)
+[GUI project](xStage-1ChemEng/GUI.m)
