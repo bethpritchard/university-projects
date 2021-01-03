@@ -3,7 +3,7 @@
 ## Stage 3
 This project involved coding a Heapsort function
 
-[Heapsort project](heapsort.m)
+[Heapsort project](Stage 2/heapsort.m)
 
 ## Stage  2
 
