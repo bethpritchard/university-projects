@@ -21,7 +21,8 @@ This project involved coding a Heapsort function.
 
 ## Stage 1 
 #### MATLAB GUI 
-This project involved developing a GUI; a dataset was given and the task was to create a GUI to display the data. This was the first large MATLAB project I completed. 
+The following project was completed during stage 1 chemical engineer; stage 1 maths coding projects were relatively small and simple and so will not be displayed.
+This project involved developing a GUI, a dataset was given and the task was to create a GUI to display the data. This was the first large MATLAB project I completed. 
 
 [GUI project](xStage-1ChemEng/GUI.m)
 
