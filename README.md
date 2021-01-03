@@ -4,7 +4,7 @@ This repo contains the majority of my university projects
 ## Stage 3
 Due to few computing componets in semester 1, I have focused on learning Python. Please see my other repos for this. I will be learning Fortran in the next semester, and will update this repo with projects.
 
-[Code First: Girls](CFG-Python-Project/main.py)
+[Code First: Girls](https://github.com/bethpritchard/CFG-Python-Project/blob/main/main.py)
 
 ## Stage  2
 #### Mandelbrot and Julia sets
