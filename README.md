@@ -29,7 +29,7 @@ Part of a stage 2 project was to code a heapsort function:
 
 ## Stage 1 
 #### MATLAB GUI 
-The following project was completed during stage 1 chemical engineer; stage 1 maths coding projects were relatively small and simple and so will not be displayed.
+The following project was completed during stage 1 chemical engineering; stage 1 maths coding projects were relatively small and simple and so will not be displayed.
 This project involved developing a GUI, a dataset was given and the task was to create a GUI to display the data. This was the first large MATLAB project I completed. 
 
 [GUI project](xStage-1ChemEng/GUI.m)
