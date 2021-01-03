@@ -8,16 +8,20 @@ Due to few computing componets in semester 1, I have focused on learning Python.
 
 ## Stage  2
 #### Mandelbrot and Julia sets
+These two functions were developed for the group project module.
 
+[Mandelbrot function](Stage-2/mandelbrot.m)
 
+[Julia function](Stage-2/julia.m)
 
+*Project grade:* 70%
 
 #### Heapsort 
-This project involved coding a Heapsort function.
+Part of a stage 2 project was to code a heapsort function:
 
 [Heapsort project](Stage-2/heapsort.m)
 
-*Grade:* 67%
+*Project grade:* 67%
 
 ## Stage 1 
 #### MATLAB GUI 
@@ -26,4 +30,4 @@ This project involved developing a GUI, a dataset was given and the task was to 
 
 [GUI project](xStage-1ChemEng/GUI.m)
 
-*Grade:* 96%
+*Project grade:* 96%
